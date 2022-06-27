@@ -1,8 +1,5 @@
 datetime
 tweepy
-sys,os
-csv
-json
 requests
 argparse
 pytz
